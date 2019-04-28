@@ -1,6 +1,6 @@
 # Site settings
 title: 学术圈那些事
-SEOTitle: SCI | BY Blog
+SEOTitle: Academic circle
 header-img: img/post-bg-desk.jpg
 email: 673578531@qq.com
 description: "Every failure is leading towards success."
@@ -39,6 +39,8 @@ anchorjs: true                          # if you want to customize anchor. check
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
+
+
 gems: [jekyll-paginate]
 
 
@@ -99,16 +101,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "zhihu",
-        href: "zhihu.com"
+        title: "基金委学术不端举报邮箱",
+        href: "http://www.nsfc.gov.cn/publish/portal0/tab566/"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com"
+        title: "博士后基金委",
+        href: "http://jj.chinapostdoctor.org.cn/V1/Program3/Default.aspx"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "新语丝",
+        href: "http://www.xys.org/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "导师评价网",
+        href: "http://www.mysupervisor.org"
     }
 ]
