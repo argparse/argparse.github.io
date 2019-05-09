@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: 673578531@qq.com
 description: "Every failure is leading towards success."
 keyword: "SCI, PAPER, 学术圈, SCIENCE, ACADEMIC, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "http://site-1527500-2076-8234.strikingly.com"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "http://site-1527500-2076-8234.strikingly.com" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,12 +18,12 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     兰子鉴
-github_username:   兰子鉴
-facebook_username:  兰子鉴
-jianshu_username:   兰子鉴
-#twitter_username:   qiubaiying
+# weibo_username:     zhonghaitao
+zhihu_username:     钟海涛
+github_username:   钟海涛
+facebook_username:  钟海涛
+jianshu_username:   钟海涛
+#twitter_username:   zhonghaitao
 
 
 
@@ -31,7 +31,7 @@ jianshu_username:   兰子鉴
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
-paginate: 10
+paginate: 15
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
