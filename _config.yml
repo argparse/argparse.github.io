@@ -1,10 +1,9 @@
 # Site settings
-title: 学术圈论坛（请赞助我们BTC，地址：3JZdtEjgjj42kfLbAXiKHfGXFe7q1AxisR）
-
+title: 学术圈论坛
 SEOTitle: Academic circle
 header-img: img/post-bg-desk.jpg
 email: 673578531@qq.com
-description: "Every failure is leading towards success."
+description: "请赞助我们BTC，支持网站建设，BTC地址：3JZdtEjgjj42kfLbAXiKHfGXFe7q1AxisR"
 keyword: "SCI, PAPER, 学术圈, SCIENCE, ACADEMIC, iOS, Apple, iPhone"
 url: "http://site-1527500-2076-8234.strikingly.com"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,7 +11,7 @@ github_repo: "http://site-1527500-2076-8234.strikingly.com" # you code repositor
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "请赞助我们BTC，地址：3JZdtEjgjj42kfLbAXiKHfGXFe7q1AxisR"
 
 
 
